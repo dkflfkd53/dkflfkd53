@@ -1,5 +1,5 @@
 ## Hi there 👋 
-[**변정현**](https://www.dsm-repo.com/resume_viewer/66de61b567206506c3942326)
+서버 개발을 공부하고 있는 [**변정현**](https://www.dsm-repo.com/resume_viewer/66de61b567206506c3942326)입니다.
 <!--
 **dkflfkd53/dkflfkd53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
